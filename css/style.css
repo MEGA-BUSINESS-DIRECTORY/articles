@@ -1,0 +1,165 @@
+.navbar-nav{
+    padding-top: 0; 
+    max-width: 100%;
+      margin-left: auto;
+      margin-right: auto; 
+  }
+
+  .navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.bg-light {
+    background-color: #adbf84 !important;
+}
+
+.navback {
+    background-color: #aabf8a !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    background: #e1e1e1;
+    margin-top: 50px;
+    color: #404040;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+
+.sitelogo {
+    font-size: 32px;
+    font-family: 'DM Serif Display', serif;
+    padding-top: 20px;
+}
+
+.cardtitle {
+    color: #212529;
+    text-decoration: none;
+}
+.container-lg {
+margin-bottom: 20px;
+padding-left: 0px;
+}
+
+img, svg {
+    max-width: 80%;
+}
+
+p, .p {
+    font-size: 20px;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 12px;
+    line-height: 2em;
+}
+
+h2, .h2 {
+    font-size: 40px;
+    max-width: 60%;
+    text-align: center;
+    line-height: 1.5em;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'DM Serif Display', serif;
+    margin-top: 25px;
+}
+
+
+h3, .h3 {
+    font-size: 30px;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;    
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+
+h4, .h4 {
+    font-size: 22px;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 55px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+
+h5, .h5 {
+    font-size: 20px;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+
+ul, .ul {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;    
+    margin-top: 25px;
+}
+
+.byline {
+    font-size: 15px;
+    max-width: 70%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.dropcap {
+    font-size: 60px;
+    color: #000;
+    padding-right: 5px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.sitedescription {
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+
+.a, a {
+    color: black;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-bottom: 2px dashed #565656;
+}
+    
+.a:hover, a:hover 
+{text-decoration: none; color: #0723e9;}
+
+b, strong {
+    font-weight: 500;
+}
